@@ -8,14 +8,14 @@ The most frequent and wide spread scenario would be every newbie developing an a
 <h3>Installing the plugin</h3>
 
 1.Download the repo using GIT or just a ZIP from Github.<br/>
-2.Add the plugin to your project (from the root of your project):
+2.Add the plugin to your project (from the root of your project):<br/>
 cordova plugin add https://github.com/jayrathod/OpenSettingsPlugin.git
 
 <h3>Using the plugin</h3>
 
 Plugin allows usage of following two methods viz.
 
-1.openSettings(value, successCallback,failureCallback)
+1.openSettings(value, successCallback,failureCallback)<br/>
 2.openLocationSettings(value, successCallback,failureCallback)
 
 The value fields takes the boolean value true for time being because this plugin will be the part of collection of sytem settings which I will modify in future and update the same.
