@@ -5,13 +5,13 @@ While developing cordova applications its very common scenario that user needs t
 
 The most frequent and wide spread scenario would be every newbie developing an app using cordova and incorporating geo-location features in his/her app needs location access provided by device. Hence this plugin helps to navigate user to system settings as well as location settings directly for their cordova app and perform enable/disable actions accordingly.
 
-Installing the plugin
+<h3>Installing the plugin</h3>
 
-1.Download the repo using GIT or just a ZIP from Github.
+1.Download the repo using GIT or just a ZIP from Github.<br/>
 2.Add the plugin to your project (from the root of your project):
 cordova plugin add https://github.com/jayrathod/OpenSettingsPlugin.git
 
-Using the plugin
+<h3>Using the plugin</h3>
 
 Plugin allows usage of following two methods viz.
 
